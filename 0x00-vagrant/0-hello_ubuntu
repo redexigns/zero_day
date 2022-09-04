@@ -1,0 +1,2 @@
+There was an error while executing `VBoxManage`, a CLI used byVagrant
+for controlling VirtualBox. The command and stderr is shown below.
